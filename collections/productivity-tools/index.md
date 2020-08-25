@@ -1,4 +1,4 @@
----
+9---
 items:
  - ohmyzsh/ohmyzsh
  - ggreer/the_silver_searcher
